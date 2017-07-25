@@ -1,4 +1,4 @@
-package com.zandili.demo.drools.pojo;
+package pojo;
 
 import java.io.Serializable;
 
